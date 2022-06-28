@@ -2,7 +2,8 @@
 👯 I’m looking to collaborate on Django Projects
 
 ### Skills
-https://github.com/osiota10/osiota10/issues/2#issue-1287193034 
+![figma-1 1figma icon](https://user-images.githubusercontent.com/73504914/176166723-f6ac118f-af47-4503-af37-5d685e924229.png)
+
 
 ### Socials
 
