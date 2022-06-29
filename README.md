@@ -38,6 +38,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osiota10&langs_count=8)](https://github.com/osiota10/github-readme-stats)
 
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 <!--
 **osiota10/osiota10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
