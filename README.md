@@ -22,7 +22,7 @@
 </p>
 
 
-## Stats
+## Stats, Languages and Tools
 <!--
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=zluvsand&repo=github_profile"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osiota10&label=Profile%20views&color=0e75b6&style=flat" alt="osiota10" /> </p>
@@ -31,14 +31,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osiota10" alt="osiota10" /></a> </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osiota10&show_icons=true&locale=en&layout=compact" alt="osiota10" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osiota10&show_icons=true&locale=en" alt="osiota10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osiota10&" alt="osiota10" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osiota10&langs_count=8)](https://github.com/osiota10/github-readme-stats)
 
 
 
