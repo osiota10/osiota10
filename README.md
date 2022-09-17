@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **osiotaobrozie@gmail.com**
 
-- 📫 Available for hire on Upwork https://bit.ly/3S6qj5W
+- 📫 Hire me on Upwork: bit.ly/3S6qj5W
 
 
 ## Skills
