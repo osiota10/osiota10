@@ -37,7 +37,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osiota10&" alt="osiota10" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osiota10&langs_count=8)](https://github.com/osiota10/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osiota10&langs_count=15)](https://github.com/osiota10/github-readme-stats)
 
 
 <!--START_SECTION:badges-->
