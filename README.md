@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Osiota Samuel Obrozie
 
-### My Name is **Osiota Samuel Obrozie**. I am a passionate `software engineer/UX Designer` with interest in developing products that are `usable`, equitable, enjoyable and useful while solving real-world problems.
+### My Name is **Osiota Samuel Obrozie**. I am a passionate `software engineer/UX Designer` with interest in developing products that are usable, equitable, enjoyable and useful while solving real-world problems.
 
 - 🌱 I’m currently learning **React and React Native**
 
