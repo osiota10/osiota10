@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Osiota Samuel Obrozie
 
-### My Name is **Osiota Samuel Obrozie**. I am a passionate `software engineer/UX Designer` with interest in developing products that are usable, equitable, enjoyable and useful while solving real-world problems.
+#### My Name is **Osiota Samuel Obrozie**. I am a passionate `software engineer/UX Designer` with interest in developing products that are usable, equitable, enjoyable and useful while solving real-world problems.
 
-- 🌱 I’m currently learning **React and React Native**
+- 🌱 I’m currently running a 12 months Software Engineering program with **ALX**
 
-- 👯 I’m looking to collaborate on **Python and Django Projects**
+- 👯 I’m looking to collaborate on **Python, React, Django and Django Rest Framework Projects**
 
 - 💬 Ask me about **Python, Django, Product Design**
 
