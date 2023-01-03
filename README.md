@@ -1,6 +1,6 @@
 ![Paradigm-banner](https://user-images.githubusercontent.com/73504914/210301210-8d4df116-9b5c-4122-babe-b0b611b82f22.gif)
 
-#### My Name is **Osiota Samuel Obrozie**. I am a passionate `full stack software engineer/UX Designer` with interest in developing products that are usable, equitable, enjoyable and useful while solving real-world problems.
+#### My Name is **Osiota Samuel Obrozie**. I am a passionate `full stack software engineer/UX Designer` with interest in developing products that are usable, equitable, enjoyable, useful and solving real-world problems.
 
 
 - 🌱 I’m currently running a 12 months Software Engineering program with **ALX**
