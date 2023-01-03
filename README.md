@@ -1,5 +1,6 @@
 # Hi there 👋 I'm Osiota Samuel Obrozie
-<h3 align="left">A passionate Full Stack Web Developer from Nigeria</h3>
+
+### My Name is **Osiota Samuel Obrozie**. I am a passionate `software engineer/UX Designer` with interest in developing products that are `usable`, equitable, enjoyable and useful while solving real-world problems.
 
 - 🌱 I’m currently learning **React and React Native**
 
