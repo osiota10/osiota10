@@ -1,17 +1,6 @@
 ![Paradigm-banner](https://user-images.githubusercontent.com/73504914/210301210-8d4df116-9b5c-4122-babe-b0b611b82f22.gif)
 
-#### My Name is **Osiota Samuel Obrozie**. I am a passionate `full stack software engineer/UX Designer` with interest in developing products that are usable, equitable, enjoyable, useful and solving real-world problems.
-
-
-- 🌱 I’m currently running a 12 months Software Engineering program with **ALX**
-
-- 👯 I’m looking to collaborate on **Python, React, Django and Django Rest Framework Projects**
-
-- 💬 Ask me about **Python, Django, Product Design**
-
-- 📫 How to reach me **osiotaobrozie@gmail.com**
-
-- 📫 Hire me on Upwork: [bit.ly/3S6qj5W](https://bit.ly/3S6qj5W) 
+#### I'm Osiota Samuel Obrozie, a full stack engineer and UX designer with a passion for creating user-centered web applications. With programming  background in JavaScript/React, Python/Django/Djano RestFrame, HTML/CSS, and Rest API, i'm skilled in both front-end and back-end development and experienced in conducting user research, creating wireframes, and prototyping designs that align with business goals and user needs. I enjoys collaborating with cross-functional teams to deliver exceptional digital experiences that drive business value. I'm committed to staying up-to-date with the latest technology trends and design techniques to create elegant and intuitive web-based applications.
 
 
 ## Skills
