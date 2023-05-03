@@ -1,6 +1,6 @@
 ![Paradigm-banner](https://user-images.githubusercontent.com/73504914/210301210-8d4df116-9b5c-4122-babe-b0b611b82f22.gif)
 
-#### I'm Osiota Samuel Obrozie, a full-stack engineer and UX designer passionate about creating user-centered web applications. With a programming background in JavaScript/React, Python/Django/Django RestFrame, HTML/CSS, and Rest API, I'm skilled in both front-end and back-end development and experienced in conducting user research, creating wireframes, and prototyping designs that align with business goals and user needs. I enjoy collaborating with cross-functional teams to deliver exceptional digital experiences that drive business value. I'm committed to staying up-to-date with technology trends and design techniques to create elegant and intuitive web-based applications.
+#### I'm a full-stack engineer and UX designer passionate about creating user-centered web applications. With a programming background in JavaScript/React, Python/Django/Django RestFrame, HTML/CSS, and Rest API, I'm skilled in both front-end and back-end development and experienced in conducting user research, creating wireframes, and prototyping designs that align with business goals and user needs. 
 
 
 ## Skills
