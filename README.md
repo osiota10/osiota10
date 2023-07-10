@@ -1,13 +1,21 @@
 ![Paradigm-banner](https://user-images.githubusercontent.com/73504914/210301210-8d4df116-9b5c-4122-babe-b0b611b82f22.gif)
 
-#### I'm a full-stack engineer and UX designer passionate about creating user-centered web applications. With a programming background in JavaScript/React, Python/Django/Django RestFrame, HTML/CSS, and Rest API, I'm skilled in both front-end and back-end development and experienced in conducting user research, creating wireframes, and prototyping designs that align with business goals and user needs. 
+#### I am a Full Stack Software Engineer with a strong focus on creating user-centric web and mobile applications. With expertise in both front-end and back-end development, along with a deep understanding of UX design principles, I am dedicated to delivering seamless and engaging user experiences across platforms. 
 
 
 ## Skills
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+- **Front-end Development**: HTML, CSS, JavaScript, React, Bootstrap, SASS
+- **Back-end Development**: Django, Django Rest Framework
+- **Database Technologies**:MySQL, PostgreSQL
+- **Server Administration**: Docker
+- **Version Control**: Git, GitHub
+- **UX Design**: User Research, Wireframing, Prototyping, Usability Testing, UI Design, Figma
+- **API Testing**: Postman, RESTful APIs, Integration Testing
+- **Mobile Development**: React Native, iOS, Android
 
 
 ## Connect with me:
+I am passionate about creating impactful software solutions and collaborating with talented individuals. If you're interested in working together or discussing any exciting opportunities, feel free to reach out to me via: 
 <p align="left">
 <a href="https://www.linkedin.com/in/osiota-samuel/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png" alt="osiotasamuel" height="40" width="40" /></a>
 <a href="https://www.behance.net/osiotasamuel" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Behance2_svg-128.png" alt="osiotasamuel" height="40" width="40" /></a>
@@ -48,3 +56,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
