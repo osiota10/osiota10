@@ -5,7 +5,7 @@
 
 ## Skills
 - **Front-end Development**: HTML, CSS, JavaScript, React, Bootstrap, SASS
-- **Back-end Development**: Django, Django Rest Framework
+- **Back-end Development**: Python, Django, Django Rest Framework
 - **Database Technologies**:MySQL, PostgreSQL
 - **Server Administration**: Docker
 - **Version Control**: Git, GitHub
