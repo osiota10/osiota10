@@ -1,6 +1,6 @@
 ![Paradigm-banner](https://user-images.githubusercontent.com/73504914/210301210-8d4df116-9b5c-4122-babe-b0b611b82f22.gif)
 
-#### I am a Full Stack Software Engineer with a strong focus on creating user-centric web and mobile applications. With expertise in both front-end and back-end development, along with a deep understanding of UX design principles, I am dedicated to delivering seamless and engaging user experiences across platforms.... 
+#### I am a Full Stack Software Engineer with a strong focus on creating user-centric web and mobile applications. With expertise in both front-end and back-end development, along with a deep understanding of UX design principles, I am dedicated to delivering seamless and engaging user experiences across platforms...
 
 
 ## Skills
